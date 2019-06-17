@@ -25,7 +25,7 @@
 
 
 ##### Variaveis do BACKUP
-export MYSQL_PWD="Backup@S0dr3"
+export MYSQL_PWD="###########"
 MYSQLUSER="backup"
 MYSQLDUMP=/usr/bin/mysqldump
 MYSQL=/usr/bin/mysql
